@@ -1,4 +1,4 @@
 ProgrammingAssignment2-master
 =============================
 This repository contains the file 'cachematrix.R' for Coursera - Programming Assignment 2.
-Created by Z. Du Toit.
+Created by Z. Du Toit, 22 May 2014.
